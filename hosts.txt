@@ -1,3 +1,2 @@
 # Takedown Orchestrator threat feed
 # Generated automatically. Entries are removed once the target is confirmed down.
-0.0.0.0 selftest-201437.invalid

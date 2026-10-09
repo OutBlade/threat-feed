@@ -1,6 +1,6 @@
 {
   "schema": "takedown-feed/1",
-  "updated_at": "2026-10-09T20:14:37.650Z",
+  "updated_at": "2026-10-09T20:14:40.797Z",
   "indicators": [
     {
       "event_id": "selftest-201437",
@@ -11,9 +11,10 @@
       "confidence": 0.99,
       "first_seen": "2026-10-09T20:14:37.627Z",
       "published_at": "2026-10-09T20:14:37.650Z",
-      "status": "active",
+      "status": "resolved",
       "evidence_sha256": "67a3f7c921e898a43b305dd1ea06fa966a833bc477a8c192b3992ba5204be331",
-      "incident": "incidents/selftest-201437.md"
+      "incident": "incidents/selftest-201437.md",
+      "resolved_at": "2026-10-09T20:14:40.797Z"
     }
   ]
 }
