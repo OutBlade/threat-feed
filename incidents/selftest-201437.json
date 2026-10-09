@@ -1,0 +1,19 @@
+{
+  "schema": "takedown-evidence/1",
+  "event_id": "selftest-201437",
+  "target_url": "https://selftest-201437.invalid/",
+  "domain": "selftest-201437.invalid",
+  "threat_type": "self-test",
+  "observed_at": "2026-10-09T20:14:37.627Z",
+  "verdict": {
+    "semgrep_detected": true,
+    "confidence_score": 0.99,
+    "evidence": "Self-test entry. The .invalid name can never resolve.",
+    "corroborated": false
+  },
+  "infrastructure": {
+    "ips": [],
+    "registrar": "",
+    "host_network": ""
+  }
+}
